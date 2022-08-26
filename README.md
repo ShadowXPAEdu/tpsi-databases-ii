@@ -19,4 +19,4 @@ Assignment 1:
 
 This subject was the continuation of the first database subject. In the first one we learned **SQL**, and in this one we learned **PL/SQL** a SQL procedural extension.  
 
-Final Grade: 16
+Final Grade: 18
